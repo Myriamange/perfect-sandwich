@@ -1,0 +1,40 @@
+html{
+	color:#222;
+	font-size: 1em;
+	line-height: 1.4;
+}
+header{
+	background-image:;
+	background-size:cover;
+	background-position: center;
+	height: 250px;
+
+}
+main{
+	float: left;
+	width: 45%;
+}
+footer{
+	clear: both;
+	text-align: center;
+	background-color: #2DA5A7;
+	padding:3px; 
+}
+h1{
+	color: white;
+	background-color: #2DA5A7;
+	padding:3px;
+
+}
+h2{
+	color: white;
+	background-color: #2DA5A7;
+	padding:3px;
+
+
+}
+aside{
+	float: right;
+	width: 45%;
+
+}
